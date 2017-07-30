@@ -16,6 +16,6 @@ MegaHAL was and made its debut in the 1998 Loebner Prize Contest. Like many chat
 * http://megahal.alioth.debian.org/
 
 #### Hungarian Dictionary
-* http://megahalirc.googlecode.com/files/hungarian.zip
+* https://code.google.com/archive/p/megahalirc/downloads
 
 &copy; 1999 Tamas Kalman <ktamas77@gmail.com>
